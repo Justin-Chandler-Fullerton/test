@@ -2,6 +2,6 @@
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Justin Chandler Justin_Chandler@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+Christian Medina @csu.fullerton.edu
